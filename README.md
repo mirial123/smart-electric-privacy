@@ -4,3 +4,6 @@ The privacy policy of the Smart Electric Android app, published with GitHub Page
 https://mirial123.github.io/smart-electric-privacy/
 
 Questions: open an issue in this repository.
+
+Download page for the Android app (until it is on Google Play):
+https://mirial123.github.io/smart-electric-privacy/download/
